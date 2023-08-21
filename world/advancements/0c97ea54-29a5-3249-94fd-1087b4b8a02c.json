@@ -1,0 +1,29 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-03-20 12:45:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-03-20 12:52:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2021-03-20 13:09:15 +0200",
+      "minecraft:river": "2021-03-20 13:09:16 +0200",
+      "minecraft:plains": "2021-03-20 12:45:41 +0200"
+    },
+    "done": false
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2021-03-20 12:45:42 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

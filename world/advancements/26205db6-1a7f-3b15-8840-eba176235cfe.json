@@ -1,0 +1,18 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-11-24 18:04:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-11-24 18:06:26 +0200",
+      "minecraft:dark_forest": "2020-11-24 18:07:04 +0200",
+      "minecraft:river": "2020-11-24 18:07:05 +0200",
+      "minecraft:plains": "2020-11-24 18:01:12 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

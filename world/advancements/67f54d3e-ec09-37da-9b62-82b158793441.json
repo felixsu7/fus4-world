@@ -1,0 +1,23 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-18 08:28:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2020-12-18 08:40:58 +0200",
+      "minecraft:river": "2020-12-18 08:40:59 +0200",
+      "minecraft:plains": "2020-12-18 08:28:35 +0200"
+    },
+    "done": false
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2020-12-18 08:28:36 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2584
+}

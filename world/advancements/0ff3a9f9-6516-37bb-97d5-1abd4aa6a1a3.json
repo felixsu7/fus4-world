@@ -1,0 +1,27 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-10-06 18:31:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-10-06 18:36:00 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2021-10-06 18:31:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-10-06 18:31:13 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
